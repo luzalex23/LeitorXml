@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RadioButton>
+	<maker>
+		<name>Montado</name>
+	</maker>
+	<maker>
+		<name>Não montado</name>
+	</maker>
+	<maker>
+		<name>Parcialmente montado</name>
+	</maker>
+	<maker>
+		<name>Montado com observação</name>
+	</maker>
+</RadioButton>
